@@ -1,4 +1,5 @@
-# wtfiswronghere
+# What is wrong here?
+
 A collection of simple errors that beginners are likely to hit when they start to write Python code. The idea is to present a safe-to-fail environment in which beginners can experience errors and try to solve them on their own. 
 
 We present small code samples that have errors in them. Initially, there is only one error and it is relatively easy to spot. As we move up challenges, there are multiple errors and subtle bugs. 
