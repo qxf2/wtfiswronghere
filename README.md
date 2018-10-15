@@ -23,7 +23,10 @@ By working through these examples, we hope you get better at:
 7. Once you fix the issue, update the readme file in the challenge directory (`01_readme.md`) with:
 
     a. what part of the error message gace you a clue
+
     b. how you set about solving the issue (e.g.: I Googled)
+    
     c. summarize what you learned. 
+
 8. Don't forget to commit your fixed code and updated readme
 
