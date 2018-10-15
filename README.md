@@ -21,12 +21,9 @@ By working through these examples, we hope you get better at:
 5. Fix the error and rerun
 6. If all goes good, you should see the output of running fizz buzz
 7. Once you fix the issue, update the readme file in the challenge directory (`01_readme.md`) with:
-
-  - what part of the error message gace you a clue
-
-  - how you set about solving the issue (e.g.: I Googled)
-
-  - summarize what you learned. 
+  1. what part of the error message gace you a clue
+  2. how you set about solving the issue (e.g.: I Googled)
+  3. summarize what you learned. 
 
 8. Don't forget to commit your fixed code and updated readme
 
