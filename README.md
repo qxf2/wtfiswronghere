@@ -23,7 +23,7 @@ By working through these examples, we hope you get better at:
 6. If all goes good, you should see the output of running fizz buzz
 7. Once you fix the issue, update the readme file in the challenge directory (`01_readme.md`) with:
 
-    a. what part of the error message gace you a clue
+    a. what part of the error message gave you a clue
 
     b. how you set about solving the issue (e.g.: I Googled)
     
