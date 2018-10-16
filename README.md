@@ -25,7 +25,7 @@ We suggest you do the following
 1. Fork or clone or download this repository
 2. In your terminal prompt (git bash, command prompt, etc.), navigate to each challenge directory (e.g.: `01_challenge`)
 3. Run the one Python script in the challenge directory (`python 01_challenge.py`)
-4. It should throw an error that reads similar to the one .png in the challenge directory
+4. It should throw an error that reads similar to the `.png` in the challenge directory
 5. Fix the error and rerun
 6. If all goes good, you should see the output of running fizz buzz
 7. Once you fix the issue, update the readme file in the challenge directory (`01_readme.md`) with:
