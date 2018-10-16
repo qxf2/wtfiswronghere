@@ -22,7 +22,7 @@ This repository has been created and maintained by [Qxf2 Services](https://www.q
 ### How to use this repository
 We suggest you do the following
 
-1. Fork or clone or download this repository
+1. [Fork](https://qxf2.com/blog/github-workflow-contributing-code-using-fork/) or clone or download this repository
 2. In your terminal prompt (git bash, command prompt, etc.), navigate to each challenge directory (e.g.: `01_challenge`)
 3. Run the one Python script in the challenge directory (`python 01_challenge.py`)
 4. It should throw an error that reads similar to the `.png` in the challenge directory
