@@ -37,5 +37,6 @@ We suggest you do the following
     c. summarize what you learned. 
 
 8. Don't forget to commit your fixed code and updated readme
+9. __Pro tip:__ Once you are setup, try your best to timebox each exercise to no more than 10-minutes. We recommend this tip for even rank beginners who know nearly nothing about Python!   
 
 NOTE: To get the most out of these exercises, we think beginners should use an IDE (e.g.: Visual Studio Code), use git and use one git branch per challenge. These are peripheral habits to the main exercises but they will go a long way in making you more comfortable in working with code. 
