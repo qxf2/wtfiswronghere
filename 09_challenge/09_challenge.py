@@ -18,14 +18,11 @@ def fizzbuzz(max_num):
     five_mul = 'buzz'
     num1 = 3
     num2 = 5 
-    min_num = 6
-
+    
     # Google for 'range in python' to see what it does
-    for i in range(min_num,max_num):
+    for i in range(6,max_num):
         # % or modulo division gives you the remainder 
-        if i == min_num:
-            print("{} and {} don't have {} , {}".format(num1,num2,three_mul,five_mul))
-        elif i%num1==0 and i%num2==0:
+        if i%num1==0 and i%num2==0:
             print(i,three_mul+five_mul)
         elif i%num1==0:
             print(i,three_mul)
