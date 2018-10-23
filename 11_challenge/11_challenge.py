@@ -19,7 +19,7 @@ def fizzbuzz(max_num):
         elif i%5==0:
             print(i,"Buzz")     
         elif i%3==0 and i%5==0:
-            print(i,"fizzbuzz not printed")
+            print(i,"fizzbuzz")
 
 #----START OF SCRIPT
 if __name__=='__main__':
