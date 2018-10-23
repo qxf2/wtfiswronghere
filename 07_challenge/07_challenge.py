@@ -28,10 +28,6 @@ def fizzbuzz(max_num):
             print(i,three_mul)
         elif i%num2==0:
             print(i,five_mul)
-        elif i==98:
-            print(i,three_mul+five_mul)
-        elif i == 99 and i%num1==0:
-            print ("i is missing")
 
 #----START OF SCRIPT
 if __name__=='__main__':
