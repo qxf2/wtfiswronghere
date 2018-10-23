@@ -8,7 +8,7 @@ For all integers between 1 and 99 (include both):
     # print buzz for multiples of 5 
     # print fizzbuzz for multiples of 3 and 5"
 """
-class fizzbuzz():
+class FizzBuzz():
 
     def __init__(self):
         "Initializer"
@@ -36,5 +36,5 @@ class fizzbuzz():
 #----START OF SCRIPT
 if __name__=='__main__':
     #Testing the fizzbuzz class
-    test_obj = fizzbuzz()
+    test_obj = FizzBuzz()
     test_obj.fizzbuzz(100)
