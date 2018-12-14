@@ -16,7 +16,7 @@ By working through these examples, we hope you get better at:
 
 We noticed that people learning new programming languages lack some foundational skills like the ability to read errors, the knowledge to self-correct their own mistakes, the skill to limit their attention to only the relevant lines of code, etc. This repository is a collection of simple errors that beginners are likely to hit when they start to write Python code. Our idea is to present exercises in which beginners can experience errors and try to solve them on their own. 
 
-This repository has been created and maintained by [Qxf2 Services](https://www.qxf2.com/?utm_source=wftiswronghere&utm_medium=click&utm_campaign=From%20github). Qxf2 provides QA consultancy services for startups.
+This repository has been created and maintained by [Qxf2 Services](https://www.qxf2.com/?utm_source=wftiswronghere&utm_medium=click&utm_campaign=From%20github). Qxf2 provides QA consultancy services for startups. If you found this repository useful, please let us know by giving us a star on GitHub.
 
 
 ### How to use this repository
@@ -32,7 +32,7 @@ We suggest you do the following
 
     a. what part of the error message gave you a clue
 
-    b. how you set about solving the issue (e.g.: I Googled)
+    b. how you set about solving the issue (e.g.: I Googled [XXXX]" that didn't work so I tried [Python XXXX] and [Python XXXX error]. Then I found a page that looked promising because [YYYY]. Thanks to reddit user [/u/danielsgriffin](https://www.reddit.com/user/danielsgriffin) for this tip!)
     
     c. summarize what you learned. 
 
