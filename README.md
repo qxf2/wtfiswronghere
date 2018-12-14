@@ -32,7 +32,7 @@ We suggest you do the following
 
     a. what part of the error message gave you a clue
 
-    b. how you set about solving the issue (e.g.: I Googled [XXXX]" that didn't work so I tried [Python XXXX] and [Python XXXX error]. Then I found a page that looked promising because [YYYY]. Thanks to reddit user [/u/danielsgriffin](https://www.reddit.com/user/danielsgriffin) for this tip!)
+    b. how you set about solving the issue (e.g.: I Googled `XXXX` that didn't help me narrow down my problem. After that, I tried Googling `Python XXXX` and finally ended up Googling for `Python XXXX error`. Then I found a page that looked promising because `YYYY`. Much thanks to reddit user [/u/danielsgriffin](https://www.reddit.com/user/danielsgriffin) for this tip!)
     
     c. summarize what you learned. 
 
