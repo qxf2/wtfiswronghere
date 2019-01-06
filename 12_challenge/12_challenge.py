@@ -1,7 +1,8 @@
 """
 We will use this script to teach Python to absolute beginners
+"""
+We will use this script to teach Python to absolute beginners
 The script is an example of Fizz-Buzz implemented in Python
-
 The FizzBuzz problem: 
 For all integers between 1 and 99 (include both):
     # print fizz for multiples of 3
@@ -15,7 +16,7 @@ class FizzBuzz():
         # adding some redundant declarations on purpose
         # we will make our script 'tighter' in one of coming exercises
         self.num1 = 3
-        self.num2 = 4
+        self.num2 = 5
         self.three_mul = 'fizz'
         self.five_mul = 'buzz'
 
