@@ -1,0 +1,3 @@
+Two errors have been found and fixed:-
+1)In fuction definition of fizzbuzz the argument is declared as type int however in the fuction call it has been passed as string type. Removed error by changing int type to string type by removing quotes.
+2) In the challange mentioned , program must print outputs up to the range of 99. However 16 has been declared. Hence the value in changed to 100, to ensure a range up to 99.
