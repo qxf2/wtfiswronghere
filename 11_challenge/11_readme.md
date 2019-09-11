@@ -1,0 +1,1 @@
+Solution:Since if condition was satisfied there was no needed for else if condition.
