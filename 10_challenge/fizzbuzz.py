@@ -9,7 +9,9 @@ For all integers between 1 and 99 (include both):
     # print fizzbuzz for multiples of 3 and 5"
 """
 
+
 def fizzbuzz(max_num):
+   
     "This method implements FizzBuzz"
     # Google for 'range in python' to see what it does
     for i in range(1,max_num):
@@ -20,3 +22,4 @@ def fizzbuzz(max_num):
             print(i,"fizz")
         elif i%5==0:
             print(i,"Buzz")
+    

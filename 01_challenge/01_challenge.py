@@ -16,6 +16,7 @@ def fizzbuzz(max_num):
     # we will make our script 'tighter' in one of coming exercises
     three_mul = 'fizz'
     five_mul = 'buzz'
+    not_app  = 'None logic applicable'
     num1 = 3
     num2 = 5 
 
@@ -24,10 +25,12 @@ def fizzbuzz(max_num):
         # % or modulo division gives you the remainder 
         if i%num1==0 and i%num2==0:
             print(i,three_mul+five_mul)
-        elif i%num1=0:
+        elif i%num1==0:
             print(i,three_mul)
         elif i%num2==0:
             print(i,five_mul)
+        else:
+            print (i, not_app)
 
 #----START OF SCRIPT
 if __name__=='__main__':
