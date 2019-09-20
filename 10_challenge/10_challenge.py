@@ -8,8 +8,8 @@ For all integers between 1 and 99 (include both):
     # print buzz for multiples of 5 
     # print fizzbuzz for multiples of 3 and 5"
 """
-import fizzbuzz
+import fizzbuzz as f1
 
 #----START OF SCRIPT
 if __name__=='__main__':
-    fizzbuzz(100)
+    f1.fizzbuzz(100)
