@@ -14,8 +14,8 @@ def fizzbuzz(max_num):
     
     # adding some redundant declarations on purpose
     # we will make our script 'tighter' in one of coming exercises
-    three_mul = 'qxf212'
-    five_mul = 'services21212121'
+    three_mul = 'GCEM'
+    five_mul = 'CSE DEPT'
     num1 = 3
     num2 = 5 
 
