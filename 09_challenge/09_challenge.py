@@ -32,3 +32,5 @@ def fizzbuzz(max_num):
 #----START OF SCRIPT
 if __name__=='__main__':
     fizzbuzz(100)
+
+
