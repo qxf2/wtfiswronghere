@@ -35,6 +35,5 @@ class Fizz_Buzz:
 #----START OF SCRIPT
 if __name__=='__main__':
     "Initialize the fizzbuzz object"
-    fizzbuzz_obj = Fizz_Buzz()
-    fizzbuzz_obj.fizzbuzz(100)
+    fizzbuzz(345)
 
