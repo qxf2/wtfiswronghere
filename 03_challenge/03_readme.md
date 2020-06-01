@@ -1,0 +1,3 @@
+The error was the argument was a string
+So i converted that string to an integer 
+for it to be accepted as an argument for the range....

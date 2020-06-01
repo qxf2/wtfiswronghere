@@ -1,0 +1,1 @@
+The error was because the assignment operator was '=' instead of '=='
