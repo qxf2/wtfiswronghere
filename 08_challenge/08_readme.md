@@ -1,0 +1,1 @@
+self argument was missing in fizzbuzz def.
