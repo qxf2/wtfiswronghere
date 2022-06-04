@@ -20,14 +20,14 @@ def fizzbuzz(max_num):
     number_five = 5 
 
     # Google for 'range in python' to see what it does
-    for value in range(1,max_num):
+    for iteration_value in range(1,max_num):
         # % or modulo division gives you the remainder 
-        if value%number_three==0 and value%number_five==0:
-            print(value,three_multiple+five_multiple)
-        elif value%number_three==0:
-            print(value,three_multiple)
-        elif value%number_five==0:
-            print(value,five_multiple)
+        if iteration_value%number_three==0 and iteration_value%number_five==0:
+            print(iteration_value,three_multiple+five_multiple)
+        elif iteration_value%number_three==0:
+            print(iteration_value,three_multiple)
+        elif iteration_value%number_five==0:
+            print(iteration_value,five_multiple)
 
 #----START OF SCRIPT
 if __name__=='__main__':
