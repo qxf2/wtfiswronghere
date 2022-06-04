@@ -16,17 +16,17 @@ def fizzbuzz(max_num):
     # we will make our script 'tighter' in one of coming exercises
     three_multiple = 'fizz'
     five_multiple = 'buzz'
-    number_three = 3
-    number_five = 5 
+    nbr_three = 3
+    nbr_five = 5 
 
     # Google for 'range in python' to see what it does
     for iteration_value in range(1,max_num):
         # % or modulo division gives you the remainder 
-        if iteration_value%number_three==0 and iteration_value%number_five==0:
+        if iteration_value%nbr_three==0 and iteration_value%nbr_five==0:
             print(iteration_value,three_multiple+five_multiple)
-        elif iteration_value%number_three==0:
+        elif iteration_value%nbr_three==0:
             print(iteration_value,three_multiple)
-        elif iteration_value%number_five==0:
+        elif iteration_value%nbr_five==0:
             print(iteration_value,five_multiple)
 
 #----START OF SCRIPT
