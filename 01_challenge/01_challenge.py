@@ -16,18 +16,18 @@ def fizzbuzz(max_num):
     # we will make our script 'tighter' in one of coming exercises
     three_mul = 'fizz'
     five_mul = 'buzz'
-    num1 = 3
-    num2 = 5 
+    number_three = 3
+    number_five = 5 
 
     # Google for 'range in python' to see what it does
-    for i in range(1,max_num):
+    for value in range(1,max_num):
         # % or modulo division gives you the remainder 
-        if i%num1==0 and i%num2==0:
-            print(i,three_mul+five_mul)
-        elif i%num1==0:
-            print(i,three_mul)
-        elif i%num2==0:
-            print(i,five_mul)
+        if value%number_three==0 and value%number_five==0:
+            print(value,three_mul+five_mul)
+        elif value%number_three==0:
+            print(value,three_mul)
+        elif value%number_five==0:
+            print(value,five_mul)
 
 #----START OF SCRIPT
 if __name__=='__main__':
