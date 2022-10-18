@@ -23,11 +23,11 @@ def fizzbuzz(max_num):
     for i in range(1,max_num):
         # % or modulo division gives you the remainder 
         if i%num1==0 and i%num2==0:
-        print(i,three_mul+five_mul)
+            print(i,'fizzbuzz')
         elif i%num1==0:
-            print(i,three_mul)
+            print(i,'fizz')
         elif i%num2==0:
-            print(i,five_mul)
+            print(i,'buzz')
 
 #----START OF SCRIPT
 if __name__=='__main__':
