@@ -9,10 +9,10 @@ For all integers between 1 and 99 (include both):
     # print fizzbuzz for multiples of 3 and 5"
 """
 
-class Fizz_Buzz:
+class Fizz_Buzz():
     "Class to implement FizzBuzz for multiples of 3 and 5"
 
-    def fizzbuzz(max_num):
+    def fizzbuzz(self,max_num):
         "This method implements FizzBuzz"
         
         # adding some redundant declarations on purpose
@@ -37,4 +37,6 @@ if __name__=='__main__':
     "Initialize the fizzbuzz object"
     fizzbuzz_obj = Fizz_Buzz()
     fizzbuzz_obj.fizzbuzz(100)
+    
+     
 
