@@ -15,7 +15,7 @@ class FizzBuzz():
         # adding some redundant declarations on purpose
         # we will make our script 'tighter' in one of coming exercises
         self.num1 = 3
-        self.num2 = 4
+        self.num2 = 5
         self.three_mul = 'fizz'
         self.five_mul = 'buzz'
 
