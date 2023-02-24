@@ -14,8 +14,8 @@ def fizzbuzz(max_num):
     
     # adding some redundant declarations on purpose
     # we will make our script 'tighter' in one of coming exercises
-    three_mul = 'fizz'
-    five_mul = 'buzz'
+    three_mul = fizz
+    five_mul = buzz
     num1 = 3
     num2 = 5 
 

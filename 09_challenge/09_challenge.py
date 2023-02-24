@@ -26,7 +26,7 @@ def fizzbuzz(max_num):
             print(i,three_mul+five_mul)
         elif i%num1==0:
             print(i,three_mul)
-        elif i%num2==0:
+        elif i%num2=0:
             print(i,five_mul)
 
 #----START OF SCRIPT
