@@ -11,6 +11,7 @@ For all integers between 1 and 99 (include both):
 
 def fizzbuzz(max_num):
     "This method implements FizzBuzz"
+    max_num = int(max_num) 
     # Google for 'range in python' to see what it does
     for i in range(1,max_num):
         # % or modulo division gives you the remainder 
